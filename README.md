@@ -20,6 +20,17 @@
 
 ## 如何体验
 
+### 在线直接玩（国内可达）
+
+- 网页版入口（手机、电脑浏览器均可）：<https://cdn.jsdelivr.net/gh/skyelai0111/small-town-focus@main/index.html>
+- 若上述地址偶发变慢，可换用镜像前缀 `gcore.jsdelivr.net` 或 `testingcf.jsdelivr.net`。
+
+### 下载离线包
+
+- 下载地址（国内可达，约 2.7 MB）：<https://cdn.jsdelivr.net/gh/skyelai0111/small-town-focus@main/SmallTownFocus-web.zip>
+- 解压后双击其中的「小镇专注.html」即可开始，无需安装任何东西；macOS、Windows 通用。
+- 也可到 [Releases](https://github.com/skyelai0111/small-town-focus/releases) 页面下载。
+
 ### 完整专注流程
 
 1. 首次打开，阅读“回到那个夏天”的序章。
@@ -89,9 +100,11 @@ https://你的用户名.github.io/small-town-focus/
 
 ```text
 game/
-├── index.html            # 应用入口：HTML、CSS、JavaScript、Canvas 与内嵌音频
-├── index-原版-2019.html  # 历史版本备份，不参与当前应用运行
-└── README.md             # 项目介绍与使用说明
+├── index.html              # 应用入口：HTML、CSS、JavaScript、Canvas 与内嵌音频
+├── SmallTownFocus-web.zip  # 离线网页包：解压后双击「小镇专注.html」即可使用
+├── LICENSE                 # MIT 开源许可证
+├── README.md               # 项目介绍与使用说明
+└── index-原版-2019.html    # 历史版本备份，仅存本地，不上传仓库
 ```
 
 ## 技术说明
