@@ -20,16 +20,11 @@
 
 ## 如何体验
 
-### 在线直接玩（国内可达）
+### 获取方式
 
-- 网页版入口（手机、电脑浏览器均可）：<https://cdn.jsdelivr.net/gh/skyelai0111/small-town-focus@main/index.html>
-- 若上述地址偶发变慢，可换用镜像前缀 `gcore.jsdelivr.net` 或 `testingcf.jsdelivr.net`。
-
-### 下载离线包
-
-- 下载地址（国内可达，约 2.7 MB）：<https://cdn.jsdelivr.net/gh/skyelai0111/small-town-focus@main/SmallTownFocus-web.zip>
-- 解压后双击其中的「小镇专注.html」即可开始，无需安装任何东西；macOS、Windows 通用。
-- 也可到 [Releases](https://github.com/skyelai0111/small-town-focus/releases) 页面下载。
+- **电脑**：下载离线包（国内可达，约 2.7 MB）：<https://cdn.jsdelivr.net/gh/skyelai0111/small-town-focus@main/SmallTownFocus-web.zip>，解压后双击「小镇专注.html」即可，无需安装；macOS、Windows 通用。也可到 [Releases](https://github.com/skyelai0111/small-town-focus/releases) 下载。
+- **手机**：在线版入口筹备中（jsDelivr 出于安全策略按纯文本返回网页，暂不能直接在线游玩；国内托管就绪后会更新此节）。
+- 国际网络可直接访问：<https://skyelai0111.github.io/small-town-focus/>
 
 ### 完整专注流程
 
